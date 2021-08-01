@@ -35,5 +35,5 @@ THEN I am again presented with current and future conditions for that city
 #Created and making a second call to fetch for UV index and creating a loop function
 #Creating issues
 #Making the key private on github
- [issue](./assets/images/issues.jpg)
+![issue](./assets/images/issues.jpg)
 
