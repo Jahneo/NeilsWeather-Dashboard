@@ -40,12 +40,6 @@ var getCityWeather = function(city){
     fetch(apiURL)
     .then(function(response){
       
-            if (!response || !response.ok) {
-                throw new Error('There was an error');
-            };
-            return response.json();
-        })
-        .then(function(response){
         response.json().then(function(data){
             displayWeather(data, city);
         });

@@ -18,21 +18,22 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ## Mock-Up
-![](./assets/images.mockUp.jpg)
+![](./assets/images/mockUp.jpg)
 # Pseudo Code
-Register with open weather to get and activate the API key
-Determine from the mock up which style to use either containers sections labels or division
-Ensure the text area is set to input and verify data enter prompt user enter and alert about invalid data 
-Try to get the website working before looking into details.
-create areas to display search list and made to function to click and search again
-area to display current and forecasted weather information
-Make UV index color coded red severe moderate yellow and favorable green
-test the fetch with example from fetch activity in class
-Apply examples for API lessons in class activities
+
+#Register with open weather to get and activate the API key
+#Determine from the mock up which style to use either containers sections labels or division
+#Ensure the text area is set to input and verify data enter prompt user enter and alert about invalid data 
+#Try to get the website working before looking into details.
+#create areas to display search list and made to function to click and search again
+#area to display current and forecasted weather information
+#Make UV index color coded red severe moderate yellow and favorable green
+#test the fetch with example from fetch activity in class
+#Apply examples for API lessons in class activities
 ### challenges
-Displaying both now and forecasted data access the API to get the correct information and put data in coorect formate
-Created and making a second call to fetch for UV index and creating a loop function
-Creating issues
-Making the key private on github
- ![issue](./assets/images.issues.jpg)
- 
+#Displaying both now and forecasted data access the API to get the correct information and put data in coorect formate
+#Created and making a second call to fetch for UV index and creating a loop function
+#Creating issues
+#Making the key private on github
+ [issue](./assets/images/issues.jpg)
+
