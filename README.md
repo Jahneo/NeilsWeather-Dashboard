@@ -18,7 +18,7 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ## Mock-Up
-![](./assets/images/mockUp.jpg)
+[](./assets/images/mockUp.jpg)
 # Pseudo Code
 
 # Register with open weather to get and activate the API key
@@ -36,9 +36,9 @@ THEN I am again presented with current and future conditions for that city
 #Created and making a second call to fetch for UV index and creating a loop function
 #Creating issues
 #Making the key private on github
-![issue](./assets/images/issues.jpg)
+[issue](./assets/images/issues.jpg)
 ### Final ####
-![](./assets/images/final.jpg)
+[](./assets/images/final.jpg)
 
 #### Issues
 # Trying to find a validator for cities tried if city.name === null but didnt work
