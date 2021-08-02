@@ -43,8 +43,9 @@ THEN I am again presented with current and future conditions for that city
 #### Issues
 # Trying to find a validator for cities tried if city.name === null but didnt work
 # Trying to prevent empty spaces from being appended ....didn't work
-## Final Project Deployed
+## Final Project Deployment
 [Weather Dashboard](https://jahneo.github.io/NeilsWeather-Dashboard/)
+#### Git Hub Deployment
 [github](https://github.com/Jahneo/Openweather) 
 
 ### rename repository
