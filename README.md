@@ -51,3 +51,5 @@ THEN I am again presented with current and future conditions for that city
 ##### Resources ###
 #Boot cam API fetch and nested fetch activities
 # Taskmaster Pro activity
+
+#### Close Issues ###
