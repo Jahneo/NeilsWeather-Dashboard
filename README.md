@@ -38,7 +38,7 @@ THEN I am again presented with current and future conditions for that city
 #Making the key private on github
 ![issue](./assets/images/issues.jpg)
 ### Final ####
-![](.assets/images/final.png)
+![](./assets/images/final.jpg)
 
 #### Issues
 # Trying to find a validator for cities tried if city.name === null but didnt work
