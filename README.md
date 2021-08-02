@@ -32,15 +32,15 @@ THEN I am again presented with current and future conditions for that city
 # test the fetch with example from fetch activity in class
 # Apply examples for API lessons in class activities
 ### challenges
-#Displaying both now and forecasted data access the API to get the correct information and put data in coorect formate
-#Created and making a second call to fetch for UV index and creating a loop function
-#Creating issues
-#Making the key private on github
+# Displaying both now and forecasted data access the API to get the correct information and put data in coorect formate
+# Created and making a second call to fetch for UV index and creating a loop function
+# Creating issues
+# Making the key private on github
 [issue](./assets/images/issues.jpg)
 ### Final ####
-[](./assets/images/final.jpg)
+[Final](./assets/images/final.jpg)
 
-#### Issues
+### Issues ###
 # Trying to find a validator for cities tried if city.name === null but didnt work
 # Trying to prevent empty spaces from being appended ....didn't work
 ## Final Project Deployment
@@ -50,7 +50,7 @@ THEN I am again presented with current and future conditions for that city
 
 ### rename repository
 ##### Resources ###
-#Boot cam API fetch and nested fetch activities
+### Boot cam API fetch and nested fetch activities ##
 # Taskmaster Pro activity
 
 #### Close Issues ###
