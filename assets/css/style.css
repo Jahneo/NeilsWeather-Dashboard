@@ -1,15 +1,16 @@
 .search-column{
   background-color:	#D3D3D3;
 }
-
+/* styling for searched list */
 .list-group-item{
-  line-height: 0.5;
-  border: none;
+  line-height: 2;
+  border:black;
 }
 .card-body{
   flex:auto
 }
-
+/* styling for UV index range colour coded */
+/* red (severe yellow (moderate) and green(favorable */
 span.severe{
   padding: 3px;
   background-color: red;
@@ -26,6 +27,7 @@ span.favorable{
   background-color: green;
   color:white;
 }
+/* syling to compensate for all media */
 @media screen and (max-width: 1199px) {
   .heading {
       font-size: 2rem;

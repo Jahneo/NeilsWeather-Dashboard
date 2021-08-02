@@ -21,19 +21,29 @@ THEN I am again presented with current and future conditions for that city
 ![](./assets/images/mockUp.jpg)
 # Pseudo Code
 
-#Register with open weather to get and activate the API key
-#Determine from the mock up which style to use either containers sections labels or division
-#Ensure the text area is set to input and verify data enter prompt user enter and alert about invalid data 
-#Try to get the website working before looking into details.
-#create areas to display search list and made to function to click and search again
-#area to display current and forecasted weather information
-#Make UV index color coded red severe moderate yellow and favorable green
-#test the fetch with example from fetch activity in class
-#Apply examples for API lessons in class activities
+# Register with open weather to get and activate the API key
+# Determine from the mock up which style to use either containers sections labels or division
+# Ensure the text area is set to input and verify data 
+# enter prompt user enter and alert about invalid data 
+# Try to get the website working before looking into details.
+# create areas to display search list and made to function to click and search again
+# area to display current and forecasted weather information
+# Make UV index color coded red severe moderate yellow and favorable green
+# test the fetch with example from fetch activity in class
+# Apply examples for API lessons in class activities
 ### challenges
 #Displaying both now and forecasted data access the API to get the correct information and put data in coorect formate
 #Created and making a second call to fetch for UV index and creating a loop function
 #Creating issues
 #Making the key private on github
 ![issue](./assets/images/issues.jpg)
+### Final ####
+![](.assets/images/final.png)
+
+#### Issues
+# Trying to find a validator for cities tried if city.name === null but didnt work
+# Trying to prevent empty spaces from being appended ....didn't work
+## Final Project Deployed
+![Weather Dashboard](https://jahneo.github.io/Openweather/)
+![github](https://github.com/Jahneo/Openweather) 
 
