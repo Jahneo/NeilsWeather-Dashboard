@@ -54,3 +54,4 @@ THEN I am again presented with current and future conditions for that city
 # Taskmaster Pro activity
 
 #### Close Issues ###
+## Reopen Issues ##
